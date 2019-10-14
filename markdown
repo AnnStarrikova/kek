@@ -1,8 +1,4 @@
-#привет
-##меня зовут аня
-_я хочу спать_
-__все хотят спать__
-~~что происходит~~
+# привет ## меня зовут аня _я хочу спать_ __все хотят спать__ ~~что происходит~~
 1. первый элемент
 2. второй элемент
 3. третий элемент
@@ -14,10 +10,8 @@ __все хотят спать__
  * пятый элемент
  <https://www.markdownguide.org> 
  <djcjdsvjds@mail.ru>
- [markdown](https://www.markdownguide.org)
- [текст](https://www.markdownguide.org "это поможет")
-![](https://i.ytimg.com/vi/F0m9eJuNbtg/maxresdefault.jpg)
-1|2|3
+ [markdown](https://www.markdownguide.org)  [текст](https://www.markdownguide.org "это поможет") ![](https://i.ytimg.com/vi/F0m9eJuNbtg/maxresdefault.jpg) 
+ 1|2|3
 ---|:---:|---:
 да|нет|не знаю
 не знаю|нет|да
